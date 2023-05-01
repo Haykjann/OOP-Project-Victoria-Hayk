@@ -40,7 +40,7 @@ public class Player {
     }
 
     public void changeIndex (int k) {
-        index = (index + k) % 34;
+        index = (index + k) % 32;
     }
 
     public String toString() {
