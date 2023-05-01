@@ -1,10 +1,12 @@
 # OOP-Project-Victoria-Hayk
 
-This game is a text based monopoly game.
+This game is a text based monopoly game
+
+Every player starts the game at the 0 location with $2000
 
 If a player goes bankrupt, then he/she loses the game
 
-There are 4 checkpoints, at location 0, 8, 16, 24.
+There are 4 checkpoints, at location 0, 8, 16, 24
 By stepping at 0 the player receives $200 as a reward
 By stepping at 8 the player receives $50 as a charge
 By stepping at 16 the player receives $100 as a reward
