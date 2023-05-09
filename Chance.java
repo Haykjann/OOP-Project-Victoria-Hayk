@@ -8,7 +8,7 @@ public class Chance extends Square {
 
     private Random j = new Random();
 
-    public void drawCard (Player x, Player l) {
+    public final void drawCard (Player x, Player l) {
         int k = j.nextInt(4);
         if (k == 0) {
             System.out.println("The card says 'You have been elected chairman of the city, pay the other player $50'");
